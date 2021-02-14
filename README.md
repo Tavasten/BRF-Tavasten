@@ -18,7 +18,7 @@ Nu pågår installation av FTX-ventilation i fastigheten. Beräknad driftstart �
 
 BRF Tavasten förvaltas av Fastum. Fastum hanterar såväl teknisk som ekonomisk förvaltning.
 
-## Förvaltning
+## Felanmälan
 
 Felanmälan kan göras till Fastum Servicecenter på telefon 90220, 7.30-16.00, helgfria vardagar, eller på webben, dygnet runt www.90220.se
 
