@@ -1,4 +1,4 @@
-![innergård](https://raw.githubusercontent.com/lsvennbeck/BRF-Tavasten/main/assets/tavasten.jpg)
+<img src = "https://raw.githubusercontent.com/lsvennbeck/BRF-Tavasten/main/assets/tavasten.jpg" height="300">
 
 ## Välkommen till BRF Tavasten 
 
