@@ -6,7 +6,7 @@ Föreningen ombildades våren 2010 och har 58 bostadslägenheter samt 5 garage.
 
 Lägenheterna var tidigare hyresrätter hos Svenska Bostäder.
 
-Kontakta styrelsen på styrelsen@brftavasten1.se
+Kontakta styrelsen på [styrelsen@brftavasten1.se](mailto:styrelsen@brftavasten1.se)
 
 ## Händer i föreningen
 
