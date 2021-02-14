@@ -1,6 +1,6 @@
 <img src = "https://raw.githubusercontent.com/lsvennbeck/BRF-Tavasten/main/assets/tavasten.jpg" height="300">
 
-## Välkommen till BRF Tavasten 
+# Välkommen till BRF Tavasten 
 
 Brf Tavasten ligger på Elias Lönnrots Väg 3 - 11 och Ibsengatan 45 - 47 i Blackeberg, Bromma.
 
@@ -10,7 +10,13 @@ Lägenheterna var tidigare hyresrätter hos Svenska Bostäder.
 
 Kontakta styrelsen på [styrelsen@brftavasten1.se](mailto:styrelsen@brftavasten1.se)
 
-## Händer i föreningen
+# Innehåll
+
+[Händer i föreningen](#händer-i-föreningen)  
+[Förvaltning](#förvaltning)  
+[Felanmälan](#felanmälan)  
+
+# Händer i föreningen
 
 Nu pågår installation av FTX-ventilation i fastigheten. Beräknad driftstart är början av december. 
 
