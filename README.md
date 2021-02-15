@@ -40,28 +40,72 @@ BRF Tavasten förvaltas av Fastum. Fastum hanterar såväl teknisk som ekonomisk
 # Felanmälan
 
 Felanmälan kan göras till Fastum Servicecenter på telefon 90220, 7.30-16.00, helgfria vardagar, eller på webben, dygnet runt www.90220.se
-
+  
 För allvarligare fel som kräver åtgärd under jourtid, kontakta Fastighetsjouren på telefon 08-502 573 40.
 
 # Stadgar
+Föreningens stadgar hittar du här: [länk]
 
 # Årsredovisning
+Nedan finner du de senaste årsredovisningarna  
+[länk]  
+[länk]  
+[länk]  
 
-# Tvättstuga
+# Tvättstuga 
+Föreningens tvättstuga är belägen i källarplanet, Elias Lönnrots Väg 3.  
+  
+Tvättstugans öppettider är  
+  
+Måndag - Fredag 07.00 - 22.00  
+  
+Lördag - Söndag 10.00 - 19.00  
+  
+Observera att det inte finns någon strömförsörjning till maskinerna utanför dessa tider.  
 
 # Bredband
 
+Föreningen har gemensam anslutning till bredband genom Ownit. Bredbandsuppkopplingen ingår i årsavgiften.  
+  
+Följande ingår i bredbandet:  
+
+Fast internetuppkoppling  
+Obegränsad surftid  
+Överföringshastighet 1000 mbps  
+1 fast IP.nummer med möjlighet till egen server  
+Felanmälan och teknisk support alla veckans dagar  
+10 st e-postkonton á 100mb  
+100 mb utrymme för hemsida  
+
 # Kabel TV
+Föreningen är ansluten till COM HEM. I grundutbudet ingår endast markbundna kanaler.  
+  
+För information och beställning av kanalpaket, kontakta COM HEM  
 
 # Sophantering
+Föreningen har två sopskåp för hushållsavfall, ett utanför Elias Lönnrots Väg 9 och ett i hörnet Elias Lönnrots Väg/Ibsengatan. I varje skåp är ett av kärlen avsedda för matavfall då föreningen sopsorterar.  
+  
+Påsar för matavfall finns att hämta i tvättstugan, Elias Lönnrots Väg 3.  
+  
+Vi har inget grovsoprum, så för förpackningsmaterial såsom papper, kartong, plast, glas, metall, hänvisar vi till kommunens kärl på Björnsonsgatan, alldeles efter tunnelbanebron ner mot Råckstarondellen.  
+  
+Två gånger per år, har vi städdag, då vi städar våra gemensamma ytor. Då finns också möjlighet att slänga grovsopor, dock ej kemikalier och bildäck.  
+  
+För miljöfarligt avfall hänvisas till Mobila Miljöstationen. Tidtabell finns här:
 
 # Brandsäkerhet
+För att underlätta utrymning och förhindra uppkomst av brand är det absolut förbjudet att förvara barnvagnar, cyklar och annan utrustning i portar och trapphus.  
+  
+Nedan finns tips på hur man brandsäkrar sitt hem.  
 
 # FTX-ventilation
+Här hittar du information om FTX-Ventilation  
 
 # Porttelefon-instruktion
+Så här fungerar porttelefonen  
 
 # Utförda renoveringar
+Nedan finns en lista över utförda renoveringar i fastigheten.  
 
 # Kontakt
 
