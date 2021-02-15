@@ -25,6 +25,7 @@ Kontakta styrelsen på [styrelsen@brftavasten1.se](mailto:styrelsen@brftavasten1
 [FTX-ventilation](#ftx-ventilation)  
 [Porttelefon-instruktion](#porttelefon-instruktion)  
 [Utförda renoveringar](#utförda-renoveringar)  
+[Kontakt](#kontakt)  
 
 # Händer i föreningen
 
