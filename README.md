@@ -42,3 +42,40 @@ BRF Tavasten förvaltas av Fastum. Fastum hanterar såväl teknisk som ekonomisk
 Felanmälan kan göras till Fastum Servicecenter på telefon 90220, 7.30-16.00, helgfria vardagar, eller på webben, dygnet runt www.90220.se
 
 För allvarligare fel som kräver åtgärd under jourtid, kontakta Fastighetsjouren på telefon 08-502 573 40.
+
+# Stadgar
+
+# Årsredovisning
+
+# Tvättstuga
+
+# Bredband
+
+# Kabel TV
+
+# Sophantering
+
+# Brandsäkerhet
+
+# FTX-ventilation
+
+# Porttelefon-instruktion
+
+# Utförda renoveringar
+
+# Kontakt
+
+STYRELSEN FÖR BRF TAVASTEN 2020-2021  
+
+Anett Nysköld, ordförande, 0703-21 98 71  
+
+Esbjörn Sundin, vice ordförande, 070-372 68 40  
+
+Annika Gustafsson, ledamot, 0731-80 42 14  
+
+Magnus Norlén, ledamot, 070-823 85 92  
+
+Kerstin Rickemo, suppleant, 073-644 93 60  
+
+Ann-Katrin Brage, suppleant, 070-722 42 29  
+
