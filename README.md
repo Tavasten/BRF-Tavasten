@@ -14,7 +14,7 @@ Kontakta styrelsen på [styrelsen@brftavasten1.se](mailto:styrelsen@brftavasten1
 
 [Händer i föreningen](#händer-i-föreningen)  
 [Stadgar](#stadgar)  
-[Årsredovisning](#årsredovisning)
+[Årsredovisning](#årsredovisning)  
 [Tvättstuga](#tvättstuga)  
 [Bredband](#bredband)  
 [Kabel TV](#kabel-tv)  
