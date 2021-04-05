@@ -8,6 +8,8 @@ Föreningen ombildades våren 2010 och har 58 bostadslägenheter samt 5 garage.
 
 Lägenheterna var tidigare hyresrätter hos Svenska Bostäder.
 
+<img src = "/assets/images/felanmalan.png" height="299">
+
 # Innehåll
 
 [Händer i föreningen](#händer-i-föreningen)  
