@@ -48,9 +48,9 @@ Föreningens stadgar hittar du här: [länk]
 
 # Årsredovisning
 Nedan finner du de senaste årsredovisningarna  
-[2019](https://github.com/lsvennbeck/BRF-Tavasten/raw/ca789b4d876cfdf4e9c235968eea28bc386fd94b/assets/annualreport/2019.pdf)  
-[2018](https://github.com/lsvennbeck/BRF-Tavasten/raw/ca789b4d876cfdf4e9c235968eea28bc386fd94b/assets/annualreport/2018.pdf)  
-[2017](https://github.com/lsvennbeck/BRF-Tavasten/raw/ca789b4d876cfdf4e9c235968eea28bc386fd94b/assets/annualreport/2017.pdf)  
+[2019](/assets/annualreport/2019.pdf)  
+[2018](/assets/annualreport/2018.pdf)  
+[2017](/assets/annualreport/2017.pdf)  
 
 
 # Tvättstuga 
