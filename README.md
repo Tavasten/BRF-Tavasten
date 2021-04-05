@@ -94,6 +94,8 @@ Två gånger per år, har vi städdag, då vi städar våra gemensamma ytor. Då
   
 För miljöfarligt avfall hänvisas till Mobila Miljöstationen. Tidtabell finns här:
 
+[Tidtabell](http://www.stockholmvattenochavfall.se/mobila?expand=vasterort)
+
 # Brandsäkerhet
 För att underlätta utrymning och förhindra uppkomst av brand är det absolut förbjudet att förvara barnvagnar, cyklar och annan utrustning i portar och trapphus.  
   
