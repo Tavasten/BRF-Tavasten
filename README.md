@@ -23,8 +23,6 @@ Kontakta styrelsen på [styrelsen@brftavasten1.se](mailto:styrelsen@brftavasten1
 [Sophantering](#sophantering)  
 [Brandsäkerh
 et](#brandsäkerhet)  
-
-[FTX-ventilation](#ftx-ventilation)  
 [Porttelefon-instruktion](#porttelefon-instruktion)  
 [Utförda renoveringar](#utförda-renoveringar)  
 [Kontakt](#kontakt)  
@@ -103,9 +101,6 @@ För att underlätta utrymning och förhindra uppkomst av brand är det absolut 
   
 Nedan finns tips på hur man brandsäkrar sitt hem.  
 [Brandsäkerhet i hemmet](https://www.brandskyddsforeningen.se/brandsakerhet-i-hemmet/)
-
-# FTX-ventilation
-Här hittar du information om FTX-Ventilation  
 
 # Porttelefon-instruktion
 Så här fungerar porttelefonen  
