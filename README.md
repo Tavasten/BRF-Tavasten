@@ -8,8 +8,6 @@ Föreningen ombildades våren 2010 och har 58 bostadslägenheter samt 5 garage.
 
 Lägenheterna var tidigare hyresrätter hos Svenska Bostäder.
 
-Kontakta styrelsen på [styrelsen@brftavasten1.se](mailto:styrelsen@brftavasten1.se)
-
 # Innehåll
 
 [Händer i föreningen](#händer-i-föreningen)  
@@ -154,6 +152,7 @@ Brf Tavasten1, Fack 55898647, R855, 106 37 Stockholm
 standard.mailinvoice@postenscanning.se 
 
 # Kontakt
+Kontakta styrelsen på [styrelsen@brftavasten1.se](mailto:styrelsen@brftavasten1.se)
 
 STYRELSEN FÖR BRF TAVASTEN 2020-2021  
 
