@@ -104,6 +104,7 @@ Nedan finns tips på hur man brandsäkrar sitt hem.
 
 # Porttelefon-instruktion
 Så här fungerar porttelefonen  
+[Instruktioner](/assets/entryphone/porttelefon.pdf  
 
 # Utförda renoveringar
 Nedan finns en lista över utförda renoveringar i fastigheten.  
