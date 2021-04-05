@@ -56,14 +56,14 @@ Tillägg för bredband från Ownit är obligatoriskt och finns tillagt på måna
 I månadsavgiften ingår värme och vatten  
 Det finns 1 lokal som används av föreningen till styrelsemöten och årsstämma  
 Föreningen äger 5 garage som går att hyra, separat kö.  I övrigt är det gratis parkering på gatorna i området  
-Utförda renoveringar i föreningen finns på den här hemsidan
-Information om eventuella renoveringar kommer finnas på hemsidan
-Fastigheten är fullvärde försäkrad
-Kontakta Fastum för att lägga in telefonnummer till porttelefon
-Kontakta Fastum för all felanmälan i bostaden och gemensamma utrymmen  
+Utförda renoveringar i föreningen finns på den här hemsidan  
+Information om eventuella renoveringar kommer finnas på hemsidan  
+Fastigheten är fullvärde försäkrad  
+Kontakta Fastum för att lägga in telefonnummer till porttelefon  
+Kontakta Fastum för all felanmälan i bostaden och gemensamma utrymmen   
 Andrahandsuthyrning måste godkännas av styrelsen. Blankett finns att hämta på https://www.fastumdirekt.se  
 Gemensamma utrymmen  
-Tvättstuga finns i källaren på Elias Lönnrots väg 3                                                           
+Tvättstuga finns i källaren på Elias Lönnrots väg 3  
 Det finns tre separata tvättstugor, varav en är grovtvättstuga. I alla tvättstugor finns torkskåp och torktumlare.  
 Barnvagns och cykelförråd finns i källare vid Ibsengatan 47 och Elias Lönnrots väg 9  
 Varje lägenhet har ett källarförråd om ca 3 kvm och vissa har matkällare  
