@@ -107,8 +107,8 @@ Så här fungerar porttelefonen
 [Instruktioner](/assets/entryphone/porttelefon.pdf)
 
 # Utförda renoveringar
-Nedan finns en lista över utförda renoveringar i fastigheten.
-[Renoveringar 2010-2020](/assets/renovations/renoveringar2010-2020.pdf
+Nedan finns en lista över utförda renoveringar i fastigheten.  
+[Renoveringar 2010-2020](/assets/renovations/renoveringar2010-2020.pdf)
 
 # Kontakt
 
