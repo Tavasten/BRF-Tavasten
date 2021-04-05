@@ -27,6 +27,8 @@ Kontakta styrelsen på [styrelsen@brftavasten1.se](mailto:styrelsen@brftavasten1
 et](#brandsäkerhet)  
 [Porttelefon-instruktion](#porttelefon-instruktion)  
 [Utförda renoveringar](#utförda-renoveringar)  
+[Medlemsansökan](#medlemsansökan)
+[Fakturaadress](#fakturaadress)
 [Kontakt](#kontakt)  
 
 # Händer i föreningen
@@ -143,6 +145,13 @@ Så här fungerar porttelefonen
 # Utförda renoveringar
 Nedan finns en lista över utförda renoveringar i fastigheten.  
 [Renoveringar 2010-2020](/assets/renovations/renoveringar2010-2020.pdf)
+
+# Medlemsansökan
+Medlemsansökan skickas till Brf Tavasten1, Fack 55898647, R855, 106 37 Stockholm  
+
+# Fakturaadress
+Brf Tavasten1, Fack 55898647, R855, 106 37 Stockholm  
+standard.mailinvoice@postenscanning.se 
 
 # Kontakt
 
