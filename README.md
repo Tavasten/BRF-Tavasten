@@ -48,9 +48,7 @@ Föreningens stadgar hittar du här: [länk]
 
 # Årsredovisning
 Nedan finner du de senaste årsredovisningarna  
-[länk]  
-[länk]  
-[länk]  
+[2019](assets/annualreport/2019.pdf)  
 
 # Tvättstuga 
 Föreningens tvättstuga är belägen i källarplanet, Elias Lönnrots Väg 3.  
