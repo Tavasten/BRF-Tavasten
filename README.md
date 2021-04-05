@@ -48,7 +48,8 @@ Föreningens stadgar hittar du här: [länk]
 
 # Årsredovisning
 Nedan finner du de senaste årsredovisningarna  
-[2019](assets/annualreport/2019.pdf)  
+[2019](https://github.com/lsvennbeck/BRF-Tavasten/raw/ca789b4d876cfdf4e9c235968eea28bc386fd94b/assets/annualreport/2019.pdf)  
+
 
 # Tvättstuga 
 Föreningens tvättstuga är belägen i källarplanet, Elias Lönnrots Väg 3.  
