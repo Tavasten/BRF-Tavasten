@@ -27,8 +27,8 @@ Kontakta styrelsen på [styrelsen@brftavasten1.se](mailto:styrelsen@brftavasten1
 et](#brandsäkerhet)  
 [Porttelefon-instruktion](#porttelefon-instruktion)  
 [Utförda renoveringar](#utförda-renoveringar)  
-[Medlemsansökan](#medlemsansökan)
-[Fakturaadress](#fakturaadress)
+[Medlemsansökan](#medlemsansökan)  
+[Fakturaadress](#fakturaadress)  
 [Kontakt](#kontakt)  
 
 # Händer i föreningen
