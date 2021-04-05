@@ -101,7 +101,7 @@ För miljöfarligt avfall hänvisas till Mobila Miljöstationen. Tidtabell finns
 # Brandsäkerhet
 För att underlätta utrymning och förhindra uppkomst av brand är det absolut förbjudet att förvara barnvagnar, cyklar och annan utrustning i portar och trapphus.  
   
-Nedan finns tips på hur man brandsäkrar sitt hem. 
+Nedan finns tips på hur man brandsäkrar sitt hem.  
 [Brandsäkerhet i hemmet](https://www.brandskyddsforeningen.se/brandsakerhet-i-hemmet/)
 
 # FTX-ventilation
