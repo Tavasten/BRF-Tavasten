@@ -19,8 +19,8 @@ För allvarligare fel som kräver åtgärd under jourtid, kontakta Fastighetsjou
 # Innehåll
 
 [Händer i föreningen](#händer-i-föreningen)  
-[Om föreningen](#om-föreningen) 
-[Om fastigheten](#om-fastigheten)
+[Om föreningen](#om-föreningen)  
+[Om fastigheten](#om-fastigheten)  
 [Förvaltning](#förvaltning)  
 [Felanmälan](#felanmälan)  
 [Stadgar](#stadgar)  
