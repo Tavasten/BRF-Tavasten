@@ -13,6 +13,8 @@ Kontakta styrelsen på [styrelsen@brftavasten1.se](mailto:styrelsen@brftavasten1
 # Innehåll
 
 [Händer i föreningen](#händer-i-föreningen)  
+[Om föreningen](#om-föreningen) 
+[Om fastigheten](#om-fastigheten)
 [Förvaltning](#förvaltning)  
 [Felanmälan](#felanmälan)  
 [Stadgar](#stadgar)  
@@ -33,6 +35,39 @@ Nu pågår installation av FTX-ventilation i fastigheten. Beräknad driftstart �
 
 020221: Ojämnt lufttryck kan förekomma pga injustering av ventilationen vilket kan medföra ökat ljud och ojämn ventilation. Hoppas på förståelse. Vänliga hälsningar Styrelsen
 
+# Om föreningen
+Organisationsnummer, 769617–4718  
+Brf Tavasten1 bildades, 2010  
+Föreningen består av 58 lägenheter, varav 4 hyreslägenheter  
+Föreningen är en äkta förening  
+Marken är tomträtt som omförhandlats enligt standard, senaste omförhandlingen var 2020  
+Föreningen accepterar inte juridisk person  
+Föreningen accepterar delat ägandeskap med minsta ägarandel 10%  
+Diskussion om avgiftsförändring sker årligen  
+Fastum förvaltar föreningen ekonomiskt och tekniskt  
+
+# Om fastigheten
+Byggnadsår, 1952 ombyggnadsår 2016, 2018  
+Fastigheten har 2-glas fönster  
+Fastigheten värms upp med bergvärme  
+Föreningen har FTX- ventilation  
+Kabel TV/Fiber finns i fastigheten. TV-utbud beställs hos Comhem, varje hushåll beställer och betalar för egenvalt utbud  
+Tillägg för bredband från Ownit är obligatoriskt och finns tillagt på månadsavgifts avin  
+I månadsavgiften ingår värme och vatten  
+Det finns 1 lokal som används av föreningen till styrelsemöten och årsstämma  
+Föreningen äger 5 garage som går att hyra, separat kö.  I övrigt är det gratis parkering på gatorna i området  
+Utförda renoveringar i föreningen finns på den här hemsidan
+Information om eventuella renoveringar kommer finnas på hemsidan
+Fastigheten är fullvärde försäkrad
+Kontakta Fastum för att lägga in telefonnummer till porttelefon
+Kontakta Fastum för all felanmälan i bostaden och gemensamma utrymmen  
+Andrahandsuthyrning måste godkännas av styrelsen. Blankett finns att hämta på https://www.fastumdirekt.se  
+Gemensamma utrymmen  
+Tvättstuga finns i källaren på Elias Lönnrots väg 3                                                           
+Det finns tre separata tvättstugor, varav en är grovtvättstuga. I alla tvättstugor finns torkskåp och torktumlare.  
+Barnvagns och cykelförråd finns i källare vid Ibsengatan 47 och Elias Lönnrots väg 9  
+Varje lägenhet har ett källarförråd om ca 3 kvm och vissa har matkällare  
+
 # Förvaltning
 
 BRF Tavasten förvaltas av Fastum. Fastum hanterar såväl teknisk som ekonomisk förvaltning.
@@ -51,7 +86,6 @@ Nedan finner du de senaste årsredovisningarna
 [2019](/assets/annualreport/2019.pdf)  
 [2018](/assets/annualreport/2018.pdf)  
 [2017](/assets/annualreport/2017.pdf)  
-
 
 # Tvättstuga 
 Föreningens tvättstuga är belägen i källarplanet, Elias Lönnrots Väg 3.  
