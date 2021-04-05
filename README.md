@@ -9,7 +9,7 @@ Föreningen ombildades våren 2010 och har 58 bostadslägenheter samt 5 garage.
 Lägenheterna var tidigare hyresrätter hos Svenska Bostäder.
 
 ## ⚠️ Felanmälan
-Kontakta Fastum service center på telefon 90220 (7.30-16.00 vardagar).
+Kontakta Fastum service center på telefon 90220 (7.30-16.00 vardagar).  
 Dygnet runt på 90220.se. 
   
 För allvarligare fel som kräver åtgärd under jourtid, kontakta Fastighetsjouren på telefon 08-502 573 40.
