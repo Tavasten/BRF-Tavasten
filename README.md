@@ -29,8 +29,7 @@ För allvarligare fel som kräver åtgärd under jourtid, kontakta Fastighetsjou
 [Bredband](#bredband)  
 [Kabel TV](#kabel-tv)  
 [Sophantering](#sophantering)  
-[Brandsäkerh
-et](#brandsäkerhet)  
+[Brandsäkerhet](#brandsäkerhet)  
 [Porttelefon-instruktion](#porttelefon-instruktion)  
 [Utförda renoveringar](#utförda-renoveringar)  
 [Medlemsansökan](#medlemsansökan)  
@@ -168,6 +167,8 @@ Anett Nysköld, ordförande, 0703-21 98 71
 
 Esbjörn Sundin, vice ordförande, 070-372 68 40  
 
+Lars Svennbeck, ledamot, 073-655 87 10
+
 Annika Gustafsson, ledamot, 0731-80 42 14  
 
 Magnus Norlén, ledamot, 070-823 85 92  
@@ -175,4 +176,6 @@ Magnus Norlén, ledamot, 070-823 85 92
 Kerstin Rickemo, suppleant, 073-644 93 60  
 
 Ann-Katrin Brage, suppleant, 070-722 42 29  
+
+
 
