@@ -62,7 +62,6 @@ Det finns 1 lokal som används av föreningen till styrelsemöten och årsstämm
 Föreningen äger 5 garage som går att hyra, separat kö.  I övrigt är det gratis parkering på gatorna i området  
 Utförda renoveringar och information om eventuella renoveringar finns på den här hemsidan  
 Fastigheten är fullvärde försäkrad  
-Kontakta Fastum för att lägga in telefonnummer till porttelefon  
 Kontakta Fastum för all felanmälan i bostaden och gemensamma utrymmen   
 Andrahandsuthyrning måste godkännas av styrelsen. Blankett finns att hämta på https://www.fastumdirekt.se  
 Gemensamma utrymmen  
@@ -141,8 +140,10 @@ Nedan finns tips på hur man brandsäkrar sitt hem.
 [Brandsäkerhet i hemmet](https://www.brandskyddsforeningen.se/brandsakerhet-i-hemmet/)
 
 # Porttelefon-instruktion
+Kontakta Fastum för att lägga in telefonnummer till porttelefon  
 Så här fungerar porttelefonen  
 [Instruktioner](/assets/entryphone/porttelefon.pdf)
+
 
 # Utförda renoveringar
 Nedan finns en lista över utförda renoveringar i fastigheten.  
