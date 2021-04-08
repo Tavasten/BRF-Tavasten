@@ -38,9 +38,7 @@ För allvarligare fel som kräver åtgärd under jourtid, kontakta Fastighetsjou
 
 # Händer i föreningen
 
-Nu pågår installation av FTX-ventilation i fastigheten. Beräknad driftstart är början av december. 
-
-020221: Ojämnt lufttryck kan förekomma pga injustering av ventilationen vilket kan medföra ökat ljud och ojämn ventilation. Hoppas på förståelse. Vänliga hälsningar Styrelsen
+Nu pågår installation av FTX-ventilation i fastigheten.
 
 # Om föreningen
 Organisationsnummer, 769617–4718  
