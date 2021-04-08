@@ -100,6 +100,8 @@ Lördag - Söndag 10.00 - 19.00
   
 Observera att det inte finns någon strömförsörjning till maskinerna utanför dessa tider.  
 
+Kom ihåg att tömma luddfilter och städa tvättstugan efter dig! 
+
 # Bredband
 
 Föreningen har gemensam anslutning till bredband genom Ownit. Bredbandsuppkopplingen ingår i årsavgiften.  
