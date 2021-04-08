@@ -27,6 +27,7 @@ För allvarligare fel som kräver åtgärd under jourtid, kontakta Fastighetsjou
 [Årsredovisning](#årsredovisning)  
 [Tvättstuga](#tvättstuga)  
 [Bredband](#bredband)  
+[FTX-ventilation](#ftx-ventilation)
 [Kabel TV](#kabel-tv)  
 [Sophantering](#sophantering)  
 [Brandsäkerhet](#brandsäkerhet)  
@@ -68,7 +69,6 @@ Tvättstuga finns i källaren på Elias Lönnrots väg 3
 Det finns tre separata tvättstugor, varav en är grovtvättstuga. I alla tvättstugor finns torkskåp och torktumlare.  
 Barnvagns och cykelförråd finns i källare vid Ibsengatan 47 och Elias Lönnrots väg 9  
 Varje lägenhet har ett källarförråd om ca 3 kvm och vissa har matkällare  
-
 
 # Förvaltning
 
@@ -116,6 +116,10 @@ Felanmälan och teknisk support alla veckans dagar
 10 st e-postkonton á 100mb  
 100 mb utrymme för hemsida  
 
+# FTX-ventilation
+FTX-ventilation återvinner luft för bättre boendekomfort och lägre energiförbrukning.
+[Beskrivning](/assets/ventilation/ftx.pdf)
+
 # Kabel TV
 Föreningen är ansluten till COM HEM. I grundutbudet ingår endast markbundna kanaler.  
   
@@ -144,7 +148,6 @@ Nedan finns tips på hur man brandsäkrar sitt hem.
 Kontakta Fastum för att lägga in telefonnummer till porttelefon  
 Så här fungerar porttelefonen  
 [Instruktioner](/assets/entryphone/porttelefon.pdf)
-
 
 # Utförda renoveringar
 Nedan finns en lista över utförda renoveringar i fastigheten.  
