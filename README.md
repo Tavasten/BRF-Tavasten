@@ -48,8 +48,7 @@ Föreningen är en äkta förening
 Marken är tomträtt som omförhandlats enligt standard, senaste omförhandlingen var 2020  
 Föreningen accepterar inte juridisk person  
 Föreningen accepterar delat ägandeskap med minsta ägarandel 10%  
-Diskussion om avgiftsförändring sker årligen  
-Fastum förvaltar föreningen ekonomiskt och tekniskt  
+Diskussion om avgiftsförändring sker årligen    
 
 # Om fastigheten
 Byggnadsår, 1952 ombyggnadsår 2016, 2018  
