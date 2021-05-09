@@ -81,7 +81,8 @@ Felanmälan kan göras till Fastum Servicecenter på telefon 90220, 7.30-16.00, 
 För allvarligare fel som kräver åtgärd under jourtid, kontakta Fastighetsjouren på telefon 08-502 573 40.
 
 # Stadgar
-Föreningens stadgar hittar du här: [länk]
+Föreningens stadgar hittar du här:  
+[Stadgar](/assets/bylaws/stadgar.pdf)
 
 # Årsredovisning
 Nedan finner du de senaste årsredovisningarna  
