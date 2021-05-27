@@ -39,8 +39,6 @@ För allvarligare fel som kräver åtgärd under jourtid, kontakta Fastighetsjou
 
 # Händer i föreningen
 
-Nu pågår installation av FTX-ventilation i fastigheten.
-
 # Om föreningen
 Organisationsnummer, 769617–4718  
 Brf Tavasten1 bildades, 2010  
@@ -164,17 +162,15 @@ standard.mailinvoice@postenscanning.se
 # Kontakt
 Kontakta styrelsen på [styrelsen@brftavasten1.se](mailto:styrelsen@brftavasten1.se)
 
-STYRELSEN FÖR BRF TAVASTEN 2020-2021  
+STYRELSEN FÖR BRF TAVASTEN 2021-2022
 
-Anett Nysköld, ordförande, 0703-21 98 71  
+ Esbjörn Sundin, ordförande, 070-372 68 40  
 
-Esbjörn Sundin, vice ordförande, 070-372 68 40  
-
-Lars Svennbeck, ledamot, 073-655 87 10
-
-Annika Gustafsson, ledamot, 0731-80 42 14  
+Annika Gustafsson, vice ordförande, 0731-80 42 14  
 
 Magnus Norlén, ledamot, 070-823 85 92  
+
+Anett Nysköld, ledarmot, 070-321 98 71
 
 Kerstin Rickemo, suppleant, 073-644 93 60  
 
